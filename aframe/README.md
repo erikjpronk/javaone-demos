@@ -1,6 +1,4 @@
-# Shoot the box
-
-Shoot the box.
+# AFrame demo's
 
 Built with [A-Frame](https://aframe.io).
 
